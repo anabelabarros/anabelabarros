@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [GlucoMama](/Emjaydee23/GlucoMama)
 
-- 👯 I’m looking to collaborate on **In Projects front-end**
+- 👯 I’m looking to collaborate on **Front-end projects**
 
 - 👨‍💻 All of my projects are available at [troopl.com/anabelasb](troopl.com/anabelasb)
 
